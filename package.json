@@ -4,6 +4,7 @@
   "description": "Class to help joining URLs and adding query parameters.",
   "main": "dist/URLPath.js",
   "scripts": {
+    "prepack": "tsc",
     "test": "jest",
     "build": "tsc"
   },
