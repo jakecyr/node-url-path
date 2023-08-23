@@ -1,6 +1,6 @@
 {
   "name": "node-url-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Class to help joining URLs and adding query parameters.",
   "main": "dist/URLPath.js",
   "scripts": {
